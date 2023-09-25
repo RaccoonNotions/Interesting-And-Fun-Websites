@@ -8,7 +8,7 @@ Interesting And Fun Websites With Info :dragon_face:
 
 <h2 align="center">
 
-:link: [1001 Album Generator](https://1001albumsgenerator.com/raccoonnotionsv2)
+:link: [1001 Album Generator](https://1001albumsgenerator.com/)
 <details>
     <summary>Info About Website</summary>
    <h3>Explore the history of music. One album a day. From the book 1001 Albums You Must Hear Before You Die. </h3>
